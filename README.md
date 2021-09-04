@@ -1,4 +1,4 @@
-# Internship-assessment-of-DG
+# Internship_Assessment_of_DG
 Use gin and xorm framework to complete a simple forum at the interface level
 
 # content
